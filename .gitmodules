@@ -37,3 +37,6 @@
 [submodule "vim-wasm"]
 	path = vim-wasm
 	url = git@github.com:rhysd/vim-wasm.git
+[submodule "bundle/vim-wasm"]
+	path = bundle/vim-wasm
+	url = https://github.com/rhysd/vim-wasm.git
