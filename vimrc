@@ -132,7 +132,7 @@ function! <SID>StripTrailingWhitespaces()
 endfun
 
 " Strip whitespace from ends of lines when saving rust files.
-autocmd BufWritePre *.rs :call <SID>StripTrailingWhitespaces()
+autocmd BufWritePre *.rs,*.txt,*.md :call <SID>StripTrailingWhitespaces()
 
 
 """"" Colors
