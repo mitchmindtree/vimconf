@@ -40,3 +40,6 @@
 [submodule "bundle/vim-wasm"]
 	path = bundle/vim-wasm
 	url = https://github.com/rhysd/vim-wasm.git
+[submodule "bundle/vim-prolog"]
+	path = bundle/vim-prolog
+	url = git@github.com:mxw/vim-prolog.git
