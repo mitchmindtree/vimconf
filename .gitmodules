@@ -43,3 +43,6 @@
 [submodule "bundle/vim-prolog"]
 	path = bundle/vim-prolog
 	url = git@github.com:mxw/vim-prolog.git
+[submodule "bundle/vim-apl"]
+	path = bundle/vim-apl
+	url = https://gitlab.com/n9n/vim-apl.git
