@@ -46,3 +46,9 @@
 [submodule "bundle/vim-apl"]
 	path = bundle/vim-apl
 	url = https://gitlab.com/n9n/vim-apl.git
+[submodule "bundle/apl-character-picker"]
+	path = bundle/apl-character-picker
+	url = git@github.com:vim-scripts/APL-character-picker.git
+[submodule "bundle/idris2-vim"]
+	path = bundle/idris2-vim
+	url = https://github.com/edwinb/idris2-vim.git
